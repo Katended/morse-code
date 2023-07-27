@@ -1,4 +1,4 @@
-Permission is hereby granted, free of charge, to any person obtaining a copy of this WEB APP and associated documentation files, to deal in the WEB APP without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the WEB APP, and to permit persons to whom the WEB APP is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this app and associated documentation files, to deal in the app  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the app, and to permit persons to whom the app is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the WEB APP.
 
