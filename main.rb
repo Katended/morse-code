@@ -16,5 +16,5 @@ puts(list.any? { |e| e == 5 })
 # => false
 
 # Test #filter
-puts(list.filter(&:even?))
+puts(list.filter { |item| item.even? })
 # => [2, 4]
